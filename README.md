@@ -5,8 +5,8 @@ This project is an AI system using ML and NLP to predict and prevent telecom cus
 This end-to-end marketing analytics system leverages machine learning, natural language processing, and business intelligence to optimize customer retention for a telecommunications operator. By combining structured CRM data with external social media sentiment analysis, the system identifies high-risk customer segments, profiles cohort behaviors using K-Means clustering, and predicts individual subscriber defection using advanced classification algorithms. The final predictive insights are compiled into an enterprise-grade, interactive Power BI decision support system that provides prescriptive action plans, tracks marketing campaign ROI, and monitors machine learning model governance in real-time.
 
 ## Group Members & Contributions
-*   Member 1: [Your First and Last Name] — Focused on Data Preprocessing, Feature Engineering, K-Means Clustering, and Predictive Modeling implementation.
-*   Member 2: [Group Member's First and Last Name] — Focused on Social Media Analytics, Sentiment Analysis (NLP), Power BI Dashboard development, and Report writing.
+*   Member 1: Zharova Malika — Focused on Data Preprocessing, Feature Engineering, K-Means Clustering, and Predictive Modeling implementation.
+*   Member 2: Tokanaeva Aisana — Focused on Social Media Analytics, Sentiment Analysis (NLP), Power BI Dashboard development, and Report writing.
 
 ## Dataset Source
 The primary dataset utilized in this project is the Telco Customer Churn dataset. 
